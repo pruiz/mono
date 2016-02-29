@@ -24,6 +24,7 @@ Mono.Web.Util/SettingsMapping.cs
 Mono.Web.Util/SettingsMappingManager.cs
 Mono.Web.Util/SettingsMappingWhat.cs
 
+ReferenceSources/SR.cs
 System.Web/ApplicationShutdownReason.cs
 System.Web/BeginEventHandler.cs
 System.Web.Caching/AggregateCacheDependency.cs
@@ -503,6 +504,7 @@ System.Web/TraceContextRecord.cs
 System.Web/TraceData.cs
 System.Web/TraceManager.cs
 System.Web/TraceMode.cs
+System.Web.UI/Util.cs
 System.Web.UI.Adapters/ControlAdapter.cs
 System.Web.UI.Adapters/PageAdapter.cs
 System.Web.UI.Adapters/WmlPostFieldType.cs
